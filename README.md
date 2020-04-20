@@ -1,5 +1,5 @@
 # Covid19_API  
-Provides up-to-date data about Coronavirus outbreak. Includes numbers about totalCases, deaths, recovered and so on.
+Provides up-to-date data about Coronavirus outbreak. Includes numbers about totalCases, deaths, recovered and so on.  
 ***Data are scraped from reliable sources (e.g. worldometers).***
 
 ## Screenshots
